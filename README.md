@@ -56,5 +56,4 @@ Esto facilitará tanto la **edición** como la **ampliación futura** del conten
 
 **BRUSMEL GIL**
 
-📅 *Proyecto realizado como práctica de organización y clasificación de textos.*
-
+📅 *Proyecto realizado como práctica de organización y clasificación de textos.
